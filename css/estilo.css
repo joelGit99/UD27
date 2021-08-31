@@ -1,0 +1,27 @@
+table{
+    border-style: solid;
+    width: 100%;
+}
+td {
+    border-style: solid;
+    text-align: center;
+    font-weight: bold;
+    border-color: black;
+}
+.celda2 {
+    text-align: left;
+    background-color: aqua;
+}
+.celda6 {
+    text-align: end;
+    background-color: palevioletred;
+}
+.celda1 {
+    background-color: greenyellow;
+}
+.textorojo {
+    color: red;
+}
+caption {
+    font-weight: bold;
+}
