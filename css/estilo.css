@@ -1,0 +1,6 @@
+.listaLetras {
+    list-style: lower-latin;
+}
+.listaRomanos {
+    list-style: upper-roman;
+}
